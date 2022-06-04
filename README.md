@@ -1,5 +1,5 @@
-### Hi there 👋
-
+hola mi nombre es daniel
+actualmente estoy estudiando el curso fundamental de programacion web
 <!--
 **JesusGOD0/jesusGOD0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
